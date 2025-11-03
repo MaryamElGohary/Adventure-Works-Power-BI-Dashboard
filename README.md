@@ -4,7 +4,7 @@ Storage connection mode : import
 
 
 
-Data Modeling
+----------Data Modeling:
 
 Designed a star schema to structure the data model efficiently for reporting and analysis.
 
@@ -15,7 +15,7 @@ Defined inactive relationships between multiple date columns (such as Order Date
 
 
 
-Data Transformations & DAX
+---------Data Transformations & DAX:
 
 Applied data cleaning and transformations in Power Query before modeling.
 
@@ -23,7 +23,9 @@ Used DAX functions such as USERELATIONSHIP() to activate inactive relationships 
 
 Implemented additional measures to calculate total sales, profit, and other KPIs.
 
-Dashboard Features
+
+
+-----------Dashboard Features:
 
 Hierarchies and Drill Down: Created product hierarchies (Category → Subcategory → Product) and applied drill-down functionality in visuals such as the Tree Map for detailed exploration.
 
@@ -35,7 +37,7 @@ Interactive Filters and Slicers: Enabled users to filter data by region, product
 
 
 
-Tools & Technologies
+--------Tools & Technologies:
 
 -Power BI Desktop
 
